@@ -23,5 +23,5 @@ Table formate -
 		
 Copy all the files uploaded above and paste it inside { lampp/htdoc/ } if you are using XAMPP(Recommended).
 
-Access  website with http://localhost:8080/index.php(Check Network tab of XAMPP).
+Access  website with http://localhost:8080/index.php (Check Network tab of XAMPP).
 Access database with http://localhost:8080/phpmyadmin/
